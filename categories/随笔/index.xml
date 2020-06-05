@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随笔 on Ming&#39;s blog</title>
+    <link>https://kongzhongsanbu.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on Ming&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jun 2020 00:46:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://kongzhongsanbu.github.io/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>催眠，安眠</title>
+      <link>https://kongzhongsanbu.github.io/post/blog0/</link>
+      <pubDate>Fri, 05 Jun 2020 00:46:42 +0800</pubDate>
+      
+      <guid>https://kongzhongsanbu.github.io/post/blog0/</guid>
+      <description>&lt;p&gt;愿姐姐，一切安好。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>尘月</title>
+      <link>https://kongzhongsanbu.github.io/post/blog/</link>
+      <pubDate>Fri, 05 Jun 2020 00:09:01 +0800</pubDate>
+      
+      <guid>https://kongzhongsanbu.github.io/post/blog/</guid>
+      <description>&lt;p&gt;第一封情书？&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
